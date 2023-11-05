@@ -53,3 +53,7 @@ hr {
     display: flex;
     justify-content: center;
 }
+
+a:link {
+    font-weight: 10px;
+}
