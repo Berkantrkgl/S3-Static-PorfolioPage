@@ -6,11 +6,11 @@ body {
     font-family: 'Press Start 2P'; 
     color: #2B3A55;
 }
+
 .text-font {
     font-family: 'Roboto', sans-serif;
     font-size: 3rem;
     color: #2B3A55;
-
 }
 
 .head-backround {
@@ -52,4 +52,46 @@ hr {
 .parent {
     display: flex;
     justify-content: center;
+}
+
+img {
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+.skills-header {
+    display: block;
+    padding: 2rem;
+    padding-bottom: 3rem;
+}
+
+.single-content {
+    max-width: 40%;
+    border: #0F2C59 solid 2px;
+    border-radius: 1rem;
+}
+
+.single-content p {
+    text-align: center;
+}
+
+.skill-card-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+svg {
+    height: 2rem;
+}
+
+.skill-card-header h3 {
+    font-size: 2rem;
 }
