@@ -28,7 +28,7 @@ hr {
 }
 
 .hr-style {
-    border: dotted #DAC0A3 7px;
+    border: dotted #000000 7px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto;
@@ -67,8 +67,8 @@ img {
 }
 .skills-header {
     display: block;
-    padding: 2rem;
-    padding-bottom: 3rem;
+    padding: 6rem 0;
+
 }
 
 .single-content {
