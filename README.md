@@ -9,4 +9,4 @@ I created the project using Html and Css basics. I published this website, which
 
 ## Link of the Project
 You can find the link where I published the website below. I didn't buy a domain for such a simple thing. Sorry :) <br>
-[You can access it here.](http://portfolio-berkan.s3-website.eu-north-1.amazonaws.com/)
+[You can access it here.](https://berkanturkoglu.com)
